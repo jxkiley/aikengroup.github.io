@@ -1,51 +1,62 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to the Aiken Group website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Welcome to the Aiken Group website!
+# Research Summary
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+The major focus of my research is understanding and optimising the long-term outcomes of medically complex pregnancies. 
 
-A data-driven personal website
+My group works with placental models to understand the impact of drug treatments on the placenta. This work includes primary trophoblasts from term pregnancies and also organoid models. We currently hold substantive research grants to investigate the impact of metformin on the placenta. Our studies on metformin have had directly translatable outcomes, including citations in drug licensing for gestational diabetes, citations in international intrapartum care guidelines, and bringing a new drug therapy for gestational diabetes into a first-in-pregnancy clinical trial (ISRCTN 90686599).
+ 
+A key method of investigation by my group is data-linkage to routinely-collected sources. A key example is our development of an innovative mother-and-child pregnancy data-linkage platform (POPStar), involving data from the University of Cambridge, NHS England, the Department for Education and the Office of National Statistics. An example of POPStar platform output is our recent study (PLOS Medicine PMID:37093852) of the mid-childhood educational outcomes following fetal growth restriction, which has already generated interest from clinical priority-setting groups. My group also have expertise in primary care data linkage and to electronic hospital records.
+
+Other examples of our research interests include:
+* Maternal death review and pregnancy care in Uganda (in collaboration with Professor Annettee Nakimuli)
+* Reproductive health care policy (in collaboration with Professor Abigail Aiken)
+* Understanding the experiences of women experiencing medically complex pregnancies
+
+As the academic associate training programme director for O&G in the East of England, I play a role in mentoring and supporting the development of aspiring clinical researchers.
+
+Examples of recent publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1: Wetzler SR, Wishlade T, Cates F, Kuhn I, Aiken CE. Lived experience of hypertensive disorders of pregnancy: a systematic review and meta-synthesis. Am J Obstet Gynecol MFM. 2024 Nov;6(11):101494. doi: 10.1016/j.ajogmf.2024.101494.
+Epub 2024 Sep 17. PMID: 39299502.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2: Namagembe I, Karavadra B, Kazibwe L, Rujumba J, Kiwanuka N, Smith B, Byamugisha J, Moffett A, Bashford T, Nakimuli A, Aiken CE. Implementation challenges in preeclampsia care: perspectives from health care professionals in urban Uganda. AJOG Glob Rep. 2024 Apr 2;4(2):100348. doi: 10.1016/j.xagr.2024.100348. PMID: 38681952; PMCID: PMC11046291.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+3: Olga L, Sovio U, Wong H, Smith GCS, Aiken CEM. Association between maternal hemoglobin concentration and educational attainment in mid-childhood in a high-resource obstetric setting: a prospective cohort study. Am J Obstet Gynecol MFM 2024 May;6(5):101357. doi: 10.1016/j.ajogmf.2024.101357. Epub 2024 Mar 23. PMID: 38527690.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+4: Olga L, Sovio U, Wong H, Smith GCS, Aiken CEM. Maternal high body mass index, but not gestational diabetes, is associated with poorer educational attainment in mid-childhood. Am J Obstet Gynecol. 2024 Jul;231(1):120.e1-120.e9. doi: 10.1016/j.ajog.2023.11.1227. Epub 2023 Nov 21. PMID: 37981092.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+5: Tarry-Adkins JL, Robinson IG, Pantaleão LC, Armstrong JL, Thackray BD, Holzner LMW, Knapton AE, Virtue S, Jenkins B, Koulman A, Murray AJ, Ozanne SE, Aiken CE. The metabolic response of human trophoblasts derived from term placentas to metformin. Diabetologia. 2023 Dec;66(12):2320-2331. doi:
+10.1007/s00125-023-05996-3. Epub 2023 Sep 5. PMID: 37670017; PMCID: PMC10627909.
 
-**Markdown generator**
+6: Stock SJ, Aiken CE. Barriers to progress in pregnancy research: How can we break through? Science. 2023 Apr 14;380(6641):150-153. doi: 10.1126/science.adf9347. Epub 2023 Apr 13. PMID: 37053324.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+7: Eggleton EJ, McMurrugh KJ, Aiken CE. Perinatal outcomes in pregnancies complicated by maternal cardiomyopathy: a systematic review and meta-analysis. Am J Obstet Gynecol. 2023 Mar;228(3):283-291. doi: 10.1016/j.ajog.2022.09.025. Epub 2022 Sep 20. PMID: 36150520.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+8: Tarry-Adkins JL, Robinson IG, Reynolds RM, Aye ILMH, Charnock-Jones DS, Jenkins B, Koulmann A, Ozanne SE, Aiken CE. Impact of Metformin Treatment on Human Placental Energy Production and Oxidative Stress. Front Cell Dev Biol. 2022 Jun 17;10:935403. doi: 10.3389/fcell.2022.935403. PMID: 35784487; PMCID: PMC9247405.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+9: Ruth KS, Day FR, Hussain J, Martínez-Marchal A, Aiken CE, Perry JRB. Genetic insights into biological mechanisms governing human ovarian ageing. Nature. 2021 Aug;596(7872):393-397. Doi: 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+10.1038/s41586-021-03779-7. Epub 2021 Aug 4. PMID: 34349265; PMCID: PMC7611832.
+
+10: Tarry-Adkins JL, Grant ID, Ozanne SE, Reynolds RM, Aiken CE. Efficacy and
+Side Effect Profile of Different Formulations of Metformin: A Systematic Review and Meta-Analysis. Diabetes Ther. 2021 Jul;12(7):1901-1914. doi: 10.1007/s13300-021-01058-2. Epub 2021 Jun 2. PMID: 34075573; PMCID: PMC8266931.
+
+11: Tarry-Adkins JL, Ozanne SE, Aiken CE. Impact of metformin treatment during pregnancy on maternal outcomes: a systematic review/meta-analysis. Sci Rep. 2021 Apr 29;11(1):9240. doi: 10.1038/s41598-021-88650-5. PMID: 33927270; PMCID: PMC8085032.
+
+12: Aiken ARA, Starling JE, Gomperts R, Scott JG, Aiken CE. Demand for self-managed online telemedicine abortion in eight European countries during the COVID-19 pandemic: a regression discontinuity analysis. BMJ Sex Reprod Health. 2021 Oct;47(4):238-245. doi: 10.1136/bmjsrh-2020-200880. Epub 2021 Jan 11. PMID: 33431614; PMCID: PMC7802389.
+
+13: Aiken ARA, Starling JE, Gomperts R, Tec M, Scott JG, Aiken CE. Demand for Self-Managed Online Telemedicine Abortion in the United States During the Coronavirus Disease 2019 (COVID-19) Pandemic. Obstet Gynecol. 2020 Oct;136(4):835-837. doi: 10.1097/AOG.0000000000004081. PMID: 32701762; PMCID: PMC7505141.
+
+14: Aiken CE, Tarry-Adkins JL, Ashmore TJ, Ozanne SE. Early life environment influences the trajectory of post-partum weight loss in adult female rats. Reprod Biomed Online. 2019 May;38(5):779-786. doi: 10.1016/j.rbmo.2018.12.002. Epub 2018 Dec 12. PMID: 30885667; PMCID: PMC6491499.
+
+15: Aiken CE, Aiken AR, Scott JG, Brockelsby JC. The influence of hours worked prior to delivery on maternal and neonatal outcomes: a retrospective cohort study. Am J Obstet Gynecol. 2016 Nov;215(5):634.e1-634.e7. doi:10.1016/j.ajog.2016.06.026. Epub 2016 Jun 23. PMID: 27343567; PMCID: PMC5086304.
+
+16: Aiken AR, Scott JG, Gomperts R, Trussell J, Worrell M, Aiken CE. Requests for Abortion in Latin America Related to Concern about Zika Virus Exposure. N Engl J Med. 2016 Jul 28;375(4):396-8. doi: 10.1056/NEJMc1605389. Epub 2016 Jun 22. PMID: 27331661; PMCID: PMC5026851.
