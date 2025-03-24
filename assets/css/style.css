@@ -1,0 +1,6 @@
+.author__location {
+  /* Add styles similar to author__bio to ensure text wraps correctly */
+  word-wrap: break-word;
+  white-space: normal;
+  /* Add any additional styling as needed */
+}
