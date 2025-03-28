@@ -1,0 +1,9 @@
+---
+title: "Xuemei Zhang, MD, PhD"
+excerpt: "Visiting Scholar"
+collection: personnel
+category: current
+author_profile: false
+---
+
+The main research focus is on pregnancy-related diseases,such as preeclampsia, and trophoblast development and metabolic abnormalities. Currently, she serves as a member of the Neonatal Resuscitation Group of the 10th Perinatal Medicine Branch of the Chinese Medical Association, a member of the Twin Pregnancy Hypertensive Disorders Group of the Chinese Maternal and Child Health Association, a member of the Maternal-Fetal Medicine Committee of the Cross-Strait Medical and Health Exchange Association, the deputy director of the Youth Committee of the Obstetrics and Gynecology Branch of the Chongqing Medical Association, an editorial board member of the Chinese Medical Journal, and a young editorial board member of the Journal of Obstetrics and Gynecology and Heredity. She won the second prize in the National Obstetric Surgical Operation and Suturing Skills Competition in 2020, was recognized as a young outstanding talent in the discipline promotion project of the First Affiliated Hospital of Chongqing Medical University in 2021, and was selected as a high-end talent in the field of medicine for the middle-aged and young generation in Chongqing in 2021. She has led two projects funded by the National Natural Science Foundation of China, one project funded by the Chongqing Municipal Education Commission, and participated in multiple national-level research projects. She has published over 20 academic papers and co-authored/translated four obstetrics and gynecology books.
