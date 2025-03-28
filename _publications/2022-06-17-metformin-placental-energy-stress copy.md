@@ -1,0 +1,14 @@
+---
+title: "Impact of Metformin Treatment on Human Placental Energy Production and Oxidative Stress"
+collection: publications
+category: manuscripts
+# permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: '**Keywords:** atp production; metformin; mitochondria; oxidative stress; placenta; proton leak; respiration; trophoblast'
+date: 2022-06-17
+venue: 'Frontiers in Cell and Developmental Biology'
+slidesurl: 
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/35784487/'
+citation: 'Tarry-Adkins JL, Robinson IG, Reynolds RM, Aye ILMH, Charnock-Jones DS, Jenkins B, Koulmann A, Ozanne SE, Aiken CE. Impact of Metformin Treatment on Human Placental Energy Production and Oxidative Stress. Front Cell Dev Biol. 2022 Jun 17;10:935403. doi: 10.3389/fcell.2022.935403. PMID: 35784487; PMCID: PMC9247405.'
+---
+
+Metformin is increasingly prescribed in pregnancy, with beneficial maternal effects. However, it is not known how metformin-treatment impacts metabolism and energy production in the developing feto-placental unit. We assessed the human placental response to metformin using both in vivo and in vitro treated samples. trophoblasts were derived from placentas collected from non-laboured Caesarean deliveries at term, then treated in vitro with metformin (0.01 mM, 0.1 mM or vehicle). Metformin-concentrations were measured using liquid-chromatography mass-spectrometry. Oxygen consumption in cultured-trophoblasts was measured using a Seahorse-XF Mito Stress Test. Markers of oxidative-stress were assayed using qRT-PCR. Metformin-transporter mRNA and protein-levels were determined by quantitative RT-PCR and Western-blotting respectively. Metformin concentrations were also measured in sample trios (maternal plasma/fetal plasma/placental tissue) from pregnancies exposed to metformin on clinical-grounds. Maternal and fetal metformin concentrations in vivo were highly correlated over a range of concentrations (R2 = 0.76, p < 0.001; average fetal:maternal ratio 1.5; range 0.8-2.1). Basal respiration in trophoblasts was reduced by metformin treatment (0.01 mM metformin; p < 0.05, 0.1 mM metformin; p < 0.001). Mitochondrial-dependent ATP production and proton leak were reduced after treatment with metformin (p < 0.001). Oxidative stress markers were significantly reduced in primary-trophoblast-cultures following treatment with metformin. There is a close linear relationship between placental, fetal, and maternal metformin concentrations. Primary-trophoblast cultures exposed to clinically-relevant metformin concentrations have reduced mitochondrial-respiration, mitochondrial-dependent ATP-production, and reduced markers of oxidative-stress. Given the crucial role of placental energy-production in supporting fetal growth and well-being during pregnancy, the implications of these findings are concerning for intrauterine fetal growth and longer-term metabolic programming in metformin-exposed pregnancies.
